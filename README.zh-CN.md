@@ -22,6 +22,8 @@
 
 - 🎨 [UnoCSS](https://github.com/unocss/unocss) - 高性能且极具灵活性的即时原子化 CSS 引擎
 
+- 🪨 [MDUI](https://www.mdui.org) - 使用 Web Components 实现，遵循 Material Design 3（Material You）设计规范的 Web 前端组件库
+
 - 😃 [各种图标集为你所用](https://github.com/antfu/unocss/tree/main/packages/preset-icons)
 
 - ✅ 使用 [Vitest](http://vitest.dev/) 进行单元和组件测试
@@ -69,7 +71,7 @@
 如果您更喜欢使用更干净的 git 历史记录手动执行此操作
 
 ```bash
-npx degit 96368a/vitesse-lite-solidjs my-solid-app
+npx degit 96368a/vitesse-lite-solidjs-mdui my-solid-app
 cd my-solid-app
 pnpm i # If you don't have pnpm installed, run: npm install -g pnpm
 ```
